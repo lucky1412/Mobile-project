@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "84434708-a825-4541-aa56-aa3ca37306c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "balloon_tutorial_done": {
+      "ver": "1.0.3",
+      "uuid": "551e96cb-46d3-4c4c-a38b-5f50addb42b8",
+      "rawTextureUuid": "84434708-a825-4541-aa56-aa3ca37306c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 5.5,
+      "trimX": 48,
+      "trimY": 22,
+      "width": 307,
+      "height": 245,
+      "rawWidth": 400,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

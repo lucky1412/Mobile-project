@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "eff9e77f-1fef-48c0-96ea-e94ac46e3d8f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "balloon_turrets_spawn": {
+      "ver": "1.0.3",
+      "uuid": "d77756cf-3dbe-41eb-8919-2ecb50a29447",
+      "rawTextureUuid": "eff9e77f-1fef-48c0-96ea-e94ac46e3d8f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 5.5,
+      "trimX": 48,
+      "trimY": 22,
+      "width": 307,
+      "height": 245,
+      "rawWidth": 400,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

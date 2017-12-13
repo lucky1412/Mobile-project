@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3704536c-2b1d-4cd4-a738-d055cab4457b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "store_towers_hover": {
+      "ver": "1.0.3",
+      "uuid": "dbdf6176-2632-4db4-aa7f-436e9109ef12",
+      "rawTextureUuid": "3704536c-2b1d-4cd4-a738-d055cab4457b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 220,
+      "rawWidth": 220,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
